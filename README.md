@@ -1,4 +1,4 @@
-# Educação de qualidad
+# Educação de qualidade
 ![Capa do Projeto](http://abracidf.com/wp-content/uploads/2019/04/img14-1.png)
 
 <p align="justify">Segundo a Organização Mundial da Saúde (OMS) estima que há 70 
