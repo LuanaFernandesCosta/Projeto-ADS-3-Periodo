@@ -82,7 +82,4 @@ As Diretrizes de Impacto na Comunidade foram inspiradas pela [Aplicação do có
 
 [homepage]: https://www.contributor-covenant.org
 
-Para obter respostas a perguntas comuns sobre este código de conduta, veja a página de Perguntas Frequentes (*FAQ*) em
-https://www.contributor-covenant.org/faq. Traduções estão disponíveis em
-https://www.contributor-covenant.org/translations.
-© 2021 GitHub, Inc.
+
