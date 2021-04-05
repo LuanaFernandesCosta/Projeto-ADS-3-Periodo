@@ -1,6 +1,8 @@
 # Educação de qualidade
 ![Capa do Projeto](http://abracidf.com/wp-content/uploads/2019/04/img14-1.png)
 
+# Sobre o Projeto
+
 <p align="justify">Segundo a Organização Mundial da Saúde (OMS) estima que há 70 
 milhões de pessoas com autismo em todo o mundo, sendo 2 milhões somente 
 no Brasil. Entretanto, as informações sobre o transtorno do espectro do 
@@ -21,7 +23,7 @@ todos.</p>
 # Índice/Sumário
 
 <!--ts-->
-   * [Sobre](#Educação_de_qualidade)
+   * [Sobre](#Sobre_o_Projeto)
    * [Sumário](#Índice/Sumário)
    * [Requisitos Funcionais](#Requisitos_Funcionais)
    * [Tecnologia](#Tecnologias_Utilizadas)
