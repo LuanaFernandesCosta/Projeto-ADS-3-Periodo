@@ -44,9 +44,9 @@ todos.</p>
 - [ ] Educação com audio (musicas)
 - [ ] Educação com video
 - [ ] Histórico de atividades concluídas
-- [ ] CHAT - Suporte pedagógico
 - [ ] Opção de favoritar atividades
-- [ ] Meta diária
+- [ ] CHAT - Suporte pedagógico
+- [ ] CHAT - Suporte fonoaudiólogo
 
 
 # Tecnologias Utilizadas
