@@ -33,8 +33,10 @@ todos.</p>
 # Requisitos Funcionais
 
 
-- [ ] Cadastro de usuário
-- [ ] Atividades
+- [X] Cadastro de usuário
+- [X] Atividades educacionais
+- [X] Educação com imagens
+- [X] CHAT - Suporte pedagógico
 
 
 # Tecnologias Utilizadas
