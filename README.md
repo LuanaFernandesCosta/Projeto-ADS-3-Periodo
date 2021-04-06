@@ -27,20 +27,24 @@ todos.</p>
    * [Sumário](#Índice/Sumário)
    * [Requisitos Funcionais](#Requisitos_Funcionais)
    * [Tecnologia](#Tecnologias_Utilizadas)
+   * [Contribuição](#Contribuição)
    * [Autores](#Autores)
+   * [Licença](#Licença)
+   * [Agradecimentos](#Agradecimentos)
 <!--te-->
 
 # Requisitos Funcionais
 
 
 - [ ] Cadastro de usuário
+- [ ] Seleção de conteúdo (preferencias)
 - [ ] Atividades educacionais
+- [ ] Meta diária
 - [ ] Educação com imagens
-- [ ] CHAT - Suporte pedagógico
 - [ ] Educação com audio (musicas)
 - [ ] Educação com video
-- [ ] Seleção de conteúdo (preferencias)
 - [ ] Histórico de atividades concluídas
+- [ ] CHAT - Suporte pedagógico
 - [ ] Opção de favoritar atividades
 - [ ] Meta diária
 
@@ -50,6 +54,9 @@ todos.</p>
 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
+# Contribuíção
+
+Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 # Autores
 
@@ -63,3 +70,9 @@ Entre em contato.
 
 [![Linkedin Badge](https://img.shields.io/badge/Luana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/luana-fernandes-a899731b9) 
 [![Instagram Badge](https://img.shields.io/badge/Luana-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luufernandescosta/)
+
+# Licença
+
+Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
+
+# Agradecimentos
