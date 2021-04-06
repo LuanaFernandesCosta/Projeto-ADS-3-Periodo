@@ -33,10 +33,16 @@ todos.</p>
 # Requisitos Funcionais
 
 
-- [X] Cadastro de usuário
-- [X] Atividades educacionais
-- [X] Educação com imagens
-- [X] CHAT - Suporte pedagógico
+- [ ] Cadastro de usuário
+- [ ] Atividades educacionais
+- [ ] Educação com imagens
+- [ ] CHAT - Suporte pedagógico
+- [ ] Educação com audio (musicas)
+- [ ] Educação com video
+- [ ] Seleção de conteúdo (preferencias)
+- [ ] Histórico de atividades concluídas
+- [ ] Opção de favoritar atividades
+- [ ] Meta diária
 
 
 # Tecnologias Utilizadas
