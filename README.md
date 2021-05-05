@@ -69,9 +69,8 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
  
 Entre em contato.
-
-[![Linkedin Badge](https://img.shields.io/badge/Luana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/luana-fernandes-a899731b9) 
-[![Instagram Badge](https://img.shields.io/badge/Luana-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luufernandescosta/)
+ 
+[![GuitHub Badge](https://img.shields.io/badge/Luana-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanaFernandesCosta/)
 
 # Licença
 
