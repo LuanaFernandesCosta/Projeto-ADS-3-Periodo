@@ -35,8 +35,8 @@ todos.</p>
 
 # Requisitos Funcionais
 
-
 - [ ] Cadastro de usuário
+- [ ] Login
 - [ ] Seleção de conteúdo (preferencias)
 - [ ] Atividades educacionais
 - [ ] Meta diária
