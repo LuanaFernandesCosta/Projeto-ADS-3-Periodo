@@ -61,7 +61,6 @@ todos.</p>
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações pull (Pull Request) para nós.
 
 # Autores
-
 <table>
     <tbody><tr>
 <td align="center"> <a href="https://www.linkedin.com/in/luana-fernandes-a899731b9" rel="nofollow">
