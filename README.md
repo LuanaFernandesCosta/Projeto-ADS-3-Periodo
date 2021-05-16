@@ -62,15 +62,26 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-<a href="https://www.linkedin.com/in/luana-fernandes-a899731b9">
+<table>
+    <tbody><tr>
+<td align="center"> <a href="https://www.linkedin.com/in/luana-fernandes-a899731b9" rel="nofollow">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHCJped4cPYTQ/profile-displayphoto-shrink_200_200/0/1613496860035?e=1623283200&v=beta&t=mK3sCxRU4G7-DD8kyF8XzbX_ayLiW7K7bsKRODi9PlI" width="100px;" alt=""/>
+ <br /> <sub><b>Luana Fernandes</b></sub></a></td>
+  
+  <br />
+  <td align="center"> <a href="https://github.com/pedrohnk" rel="nofollow">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67346737?v=4" width="100px;" alt=""/>
+ <br /> <sub><b>Pedro</b></sub></a> <a href="https://github.com/pedrohnk" title="Github"></a> </td>
+ </tr>
+ 
+ <tr>
  <br />
- <sub><b>Luana Fernandes</b></sub></a> <a href="https://www.linkedin.com/in/luana-fernandes-a899731b9" title="Likedin"></a>
+  <td align="center"> <a href="https://github.com/Geisislaine" rel="nofollow">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62703469?v=4" width="100px;" alt=""/>
+ <br /> <sub><b>Geisislaine Lima</b></sub></a> <a href="https://github.com/Geisislaine" title="Github"></a> </td>
+ </tr>
+ </tbody></table>
 
- 
-Entre em contato.
- 
-[![GuitHub Badge](https://img.shields.io/badge/Luana-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuanaFernandesCosta/)
 
 # Licença
 
