@@ -62,8 +62,23 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 <table>
-    <tbody><tr>
-<td align="center"> <a href="https://www.linkedin.com/in/luana-fernandes-a899731b9" rel="nofollow">
+    <tbody>
+      <tr>
+ <br />
+  <td align="center"> <a href="https://github.com/Geisislaine" rel="nofollow">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62703469?v=4" width="100px;" alt=""/>
+ <br /> <sub><b>Geisislaine Lima</b></sub></a> <a href="https://github.com/Geisislaine" title="Github"></a> </td>
+ 
+ <br />
+  <td align="center"> <a href="https://github.com/barbararafa" rel="nofollow">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84332572?v=4" width="100px;" alt=""/>
+ <br /> <sub><b>Barbara</b></sub></a> <a href="https://github.com/barbararafa" title="Github"></a> </td>
+ 
+ </tr>
+      
+      <tr>
+      
+<td align="center"> <a href="https://github.com/LuanaFernandesCosta" rel="nofollow">
  <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHCJped4cPYTQ/profile-displayphoto-shrink_200_200/0/1613496860035?e=1623283200&v=beta&t=mK3sCxRU4G7-DD8kyF8XzbX_ayLiW7K7bsKRODi9PlI" width="100px;" alt=""/>
  <br /> <sub><b>Luana Fernandes</b></sub></a></td>
   
@@ -73,12 +88,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
  <br /> <sub><b>Pedro</b></sub></a> <a href="https://github.com/pedrohnk" title="Github"></a> </td>
  </tr>
  
- <tr>
- <br />
-  <td align="center"> <a href="https://github.com/Geisislaine" rel="nofollow">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62703469?v=4" width="100px;" alt=""/>
- <br /> <sub><b>Geisislaine Lima</b></sub></a> <a href="https://github.com/Geisislaine" title="Github"></a> </td>
- </tr>
+ 
  </tbody></table>
 
 
