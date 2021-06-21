@@ -31,7 +31,7 @@ todos.</p>
    * [Autores](#Autores)
    * [Licença](#Licença)
    * [Agradecimentos](#Agradecimentos)
-   * [Documentos](#doc)
+   * [Documentos](#Doc)
 <!--te-->
 
 # Requisitos Funcionais
