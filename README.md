@@ -79,7 +79,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
       <tr>
       
 <td align="center"> <a href="https://github.com/LuanaFernandesCosta" rel="nofollow">
- <img style="border-radius: 50%;" src="https://media-exp1.licdn.com/dms/image/C4D03AQHCJped4cPYTQ/profile-displayphoto-shrink_200_200/0/1613496860035?e=1623283200&v=beta&t=mK3sCxRU4G7-DD8kyF8XzbX_ayLiW7K7bsKRODi9PlI" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80860518?v=4" width="100px;" alt=""/>
  <br /> <sub><b>Luana Fernandes</b></sub></a></td>
   
   <br />
