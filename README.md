@@ -63,7 +63,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 <table>
     <tbody>
-     <tr>
+
  <br />
   <td align="center"> <a href="https://github.com/Geisislaine" rel="nofollow">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62703469?v=4" width="100px;" alt=""/>
@@ -74,7 +74,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84332572?v=4" width="100px;" alt=""/>
  <br /> <sub><b>Barbara</b></sub></a> <a href="https://github.com/barbararafa" title="Github"></a> </td>
  
- </tr>
+</tr>
       
       <tr>
       
